@@ -1,0 +1,6 @@
+{
+  "name": "Grand Wager",
+  "description": "Real-time 3-team classroom wagering quiz game with live host dashboard, QR team join, animated scores, and winner celebration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
